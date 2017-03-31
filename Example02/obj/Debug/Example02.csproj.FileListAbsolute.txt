@@ -1,0 +1,5 @@
+D:\CShap\Lecture9-Examples.sln\Example02\bin\Debug\Example02.exe.config
+D:\CShap\Lecture9-Examples.sln\Example02\obj\Debug\Example02.csprojResolveAssemblyReference.cache
+D:\CShap\Lecture9-Examples.sln\Example02\obj\Debug\Example02.Properties.Resources.resources
+D:\CShap\Lecture9-Examples.sln\Example02\obj\Debug\Example02.WeatherStation.resources
+D:\CShap\Lecture9-Examples.sln\Example02\obj\Debug\Example02.csproj.GenerateResource.Cache

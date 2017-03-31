@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example01", "Example01\Example01.csproj", "{BD4BB646-740F-4586-BF2A-B09D08963FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyExtension", "..\MyExtension\MyExtension\MyExtension.csproj", "{0C685064-4418-4BE7-911E-96A5C71CEAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example02", "Example02\Example02.csproj", "{B9FCE086-BBC1-43EB-9446-6B30B4422676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4BB646-740F-4586-BF2A-B09D08963FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4BB646-740F-4586-BF2A-B09D08963FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4BB646-740F-4586-BF2A-B09D08963FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4BB646-740F-4586-BF2A-B09D08963FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C685064-4418-4BE7-911E-96A5C71CEAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C685064-4418-4BE7-911E-96A5C71CEAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C685064-4418-4BE7-911E-96A5C71CEAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C685064-4418-4BE7-911E-96A5C71CEAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FCE086-BBC1-43EB-9446-6B30B4422676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FCE086-BBC1-43EB-9446-6B30B4422676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FCE086-BBC1-43EB-9446-6B30B4422676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FCE086-BBC1-43EB-9446-6B30B4422676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
